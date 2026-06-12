@@ -1,4 +1,4 @@
-Patient: Rajesh Sharma, Age 48, Male
+Patient: Dipen Chimariya, Age 24, Male
 Date: May 7, 2026
 
 COMPLETE BLOOD COUNT (CBC)
@@ -28,4 +28,4 @@ ALT:               28 U/L           (Normal: 7–40)
 AST:               25 U/L           (Normal: 10–40)
 Bilirubin Total:   0.8 mg/dL        (Normal: 0.2–1.2)
 
-Reviewing Physician: Dr. Priya Nair
+Reviewing Physician: Dr. Priya sharma
